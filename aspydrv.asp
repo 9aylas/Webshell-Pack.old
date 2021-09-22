@@ -1,4 +1,3 @@
-# password is t00ls.org
 <%
 Function BufferContent(data)
 	Dim strContent(64)
